@@ -49,7 +49,7 @@ flightservice/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Beer34/flightservice.git
+git clone https://github.com/kcharith72-cyber/flightservice.git
 cd flightservice
 ```
 
